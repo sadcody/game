@@ -1,0 +1,21 @@
+body{
+    background-image: url(HD-wallpaper-black-squares-pattern-abstract-amoled-background-design-geometric-simple-texture.jpg);
+}
+h1{
+    color: rgb(223, 0, 0);
+    margin: 10px;
+    display: flex;
+
+}
+.middle{
+    margin-top: 200px;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+    margin: 10px;
+    border-radius: 10px;
+    
+}
